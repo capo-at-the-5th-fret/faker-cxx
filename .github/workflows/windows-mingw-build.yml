@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 'main'
-      - 'mingw-workflow'
+      - 'feature/mingw-workflow'
   pull_request:
 
 env:
